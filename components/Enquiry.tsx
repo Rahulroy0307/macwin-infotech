@@ -78,7 +78,7 @@ ${formData.message}
               </div>
 
               <div className="bg-white p-6 rounded-xl shadow hover:shadow-lg transition flex justify-center">
-                <img src="/dell.png" className="h-10" />
+                <img src="/Dell.png" className="h-10" />
               </div>
 
               <div className="bg-white p-6 rounded-xl shadow hover:shadow-lg transition flex justify-center">
