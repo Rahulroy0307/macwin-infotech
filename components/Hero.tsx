@@ -58,7 +58,7 @@ export default function Hero() {
     />
 
     <img
-      src="/dell.png"
+      src="/ell.png"
       alt="Dell Partner"
       className="h-9 object-contain"
     />
